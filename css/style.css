@@ -173,6 +173,36 @@ ul.navbar-nav {
 .copyright{
 	padding-top: 15px;
 }
+.dinner{
+	padding-top: 100px;
+}
+.dinbtn button{
+	background-color: white;
+    color: black;
+    border-style: solid;
+    padding: 11px 26px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pic{
+	text-align: center;
+}
+.ser{
+	text-align: center;
+	margin-top: 25px;
+}
+.pic img{
+	margin-top: 40px;
+	height: 183px;
+	width: 230px;
+}
+.content p{
+	font-size: 15px;
+    margin: 18px 0 0;
+}
+.ser h5{
+	margin-top: 15px;
+}
 @media screen and (max-width: 992px){
 	.box{
 		display: none;
